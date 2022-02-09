@@ -1,18 +1,12 @@
-name: "distill_website"
+name: "web-distill-diogo"
 title: "Diogo Almeida"
-theme: theme_spectral.css
 description: |
-  Distill Website
+  Diogo Almeida
 output_dir: "_site"
-creative_commons: CC BY-SA
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Research"
-      href: research.html
-    - text: "Articles"
-      href: article-test.html
-    - text: "Lab"
-      href: lab.html
+    - text: "About"
+      href: about.html
 output: distill::distill_article
