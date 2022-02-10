@@ -2359,17 +2359,23 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
   .biblio li ul {
+    list-style: none;
+    padding-left: 1em;  
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    row-gap: 0em;
+    column-gap: 1em;
   }
 
-  .biblio li ul li::marker{
-    content: "";
+  /* .biblio li ul li::marker{ */
+  /*   content: ""; */
     /* content: "\f1c1"; */
     /* font-family: "Font Awesome 5 Free"; */
-  }
+  /* } */
 
 
   .pub-authors {
@@ -2637,10 +2643,10 @@ more
 <h2 id="papers">Papers</h2>
 <div class="biblio">
 <ul>
-<li><p><span class="pub-author">Sprouse, J. and <span class="pub-me">Almeida, D.</span></span>. (in press). Electrophysiological methods. The Oxford Handbook of Experimental Syntax. Edited by Jon Sprouse. Oxford University Press.</p></li>
+<li><p><span class="pub-author">Sprouse, J. and <span class="pub-me">Almeida, D.</span></span> (in press). Electrophysiological methods. The Oxford Handbook of Experimental Syntax. Edited by Jon Sprouse. Oxford University Press.</p></li>
 <li><p><span class="pub-author">Tucker, M., Idrissi, A., &amp; <span class="pub-me">Almeida, D</span></span>. (2021). <span class="pub-title">Attraction effects for verbal gender and number are similar but not identical: Self-paced reading evidence from Modern Standard Arabic.</span> <span class="pub-journal">Frontiers in Psychology</span>, <span class="pub-vol">11</span>, <span class="pub-pages">3774</span>.</p>
 <ul>
-<li><i class="ai ai-open-access"></i> <i class="fa fa-file-pdf"></i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.586464/pdf">paper</a></li>
+<li><i class="fa fa-file-pdf"></i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.586464/pdf">OA paper</a> <i class="ai ai-open-access"></i></li>
 <li><i class="ai ai-figshare"></i> <a href="https://figshare.com/projects/Attraction_Effects_for_Verbal_Gender_and_Number_Are_Similar_but_Not_Identical_Self-Paced_Reading_Evidence_from_Modern_Standard_Arabic/18823">data &amp; code</a></li>
 <li><i class="fa fa-github"></i> <a href="https://github.com/diogo-almeida/TuckerIdrissiAlmeida2021">research compendium</a></li>
 </ul></li>
@@ -2656,7 +2662,12 @@ more
 <li><p><span class="pub-author">Rogalsky, C., <span class="pub-me">Almeida, D.</span>, Sprouse, J. &amp; Hickok, G</span>. (2015). <span class="pub-title">Sentence processing selectivity in Broca’s area: Evident for structure but not syntactic movement.</span> <span class="pub-journal">Language, Cognition and Neuroscience</span>, <span class="pub-vol">30</span>(<span class="pub-issue">10</span>), <span class="pub-pages">1326 – 1338</span>. [<a href="https://www.researchgate.net/profile/Diogo_Almeida7/publication/281107689_Sentence_processing_selectivity_in_Broca%27s_area_evident_for_structure_but_not_syntactic_movement/links/55d5cd9f08aec156b9a53fa5/Sentence-processing-selectivity-in-Brocas-area-evident-for-structure-but-not-syntactic-movement.pdf?_sg%5B0%5D=BGloN6HieTIjTXU-H-CYV3obgP3n-YwHfy_O3Zj9BSB2ix_JCJ6-4-3QV4bOkEklRa9t6Xwa7YV3exC8fu6zzQ.8YKXGun8HsogPWrQlYtIZm067W4YqucwMjq0BrhUidllZUstPJGYUq5FnWAgLKsGxyQ06tYcUoogyRZjwgacBQ&amp;_sg%5B1%5D=ixvS3BaP5lifZPhXP_ZeAZrONWvI2rg216dQfR7HE2qtP6RuJjy-FBGSSSq-NWUs-MvkZGYFiHVt2oi71qeidCVsif1PT_DXK1orYFNYismx.8YKXGun8HsogPWrQlYtIZm067W4YqucwMjq0BrhUidllZUstPJGYUq5FnWAgLKsGxyQ06tYcUoogyRZjwgacBQ&amp;_iepl="><span class="sc">pdf</span></a> | <a href="https://doi.org/10.1080/23273798.2015.1066831"><span class="sc">doi</span></a>]</p></li>
 <li><p><span class="pub-author">Tucker, M., Idrissi, A., &amp; <span class="pub-me">Almeida, D</span></span>. (2015). <span class="pub-title">Representing number in the real–time processing of agreement: Self–paced reading evidence from Arabic.</span> <span class="pub-journal">Frontiers in Psychology – Language Sciences</span>, <span class="pub-vol">6</span>:<span class="pub-pages">347</span>. [<a href="http://journal.frontiersin.org/article/10.3389/fpsyg.2015.00347/pdf"><span class="sc">pdf</span></a> | <a href="https://doi.org/10.3389/fpsyg.2015.00347"><span class="sc">doi</span></a> | <a href="https://figshare.com/articles/dataset/_Representing_number_in_the_real-time_processing_of_agreement_Self-paced_reading_evidence_from_Arabic_Compressed_data_in_RData_format_for_direct_download_/4584331">figshare (data &amp; code)</a>]</p></li>
 <li><p><span class="pub-author">Politzer-Ahles, S., Schluter, K., Wu, K., &amp; <span class="pub-me">Almeida, D</span></span>. (2015). <span class="pub-title">Asymmetries in the perception of Mandarin tones: Evidence from mismatch negativity.</span> In The Scottish Consortium for ICPhS 2015 (Ed.), <span class="pub-journal">Proceedings of the 18th International Congress of Phonetic Sciences</span>. Glasgow, UK: University of Glasgow. [<a href="https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS0380.pdf"><span class="sc">pdf</span></a>]</p></li>
-<li><p><span class="pub-author"><span class="pub-me">Almeida, D</span></span>. (2014). <span class="pub-title">Subliminal WH-islands in Brazilian Portuguese and the consequences for syntactic theory.</span> <span class="pub-journal">Revista da ABRALIN</span>, <span class="pub-vol">13</span>(<span class="pub-issue">2</span>), <span class="pub-pages">55 – 93</span>. [<a href="http://revista.abralin.org/index.php/abralin/article/view/1187/1110"><span class="sc">pdf</span></a> | <a href="http://ling.auf.net/lingbuzz/002240/">Preprint</a> | <a href="https://figshare.com/articles/Data_Analysis_scripts_and_materials_for_Almeida_D_2014_Subliminal_wh-islands_in_Brazilian_Portuguese_and_the_consequences_for_syntactic_theory_Revista_da_ABRALIN_13_2_55-91_/7586675">figshare (data + code)</a>]</p></li>
+<li><p><span class="pub-author"><span class="pub-me">Almeida, D</span></span>. (2014). <span class="pub-title">Subliminal WH-islands in Brazilian Portuguese and the consequences for syntactic theory.</span> <span class="pub-journal">Revista da ABRALIN</span>, <span class="pub-vol">13</span>(<span class="pub-issue">2</span>), <span class="pub-pages">55 – 93</span>.</p>
+<ul>
+<li><i class="fa fa-file-pdf"></i> <a href="http://revista.abralin.org/index.php/abralin/article/view/1187/1110">OA paper</a> <i class="ai ai-open-access"></i></li>
+<li><i class="fa fa-file-pdf"></i> <a href="http://ling.auf.net/lingbuzz/002240/">Preprint</a></li>
+<li><i class="ai ai-figshare"></i> <a href="https://figshare.com/articles/Data_Analysis_scripts_and_materials_for_Almeida_D_2014_Subliminal_wh-islands_in_Brazilian_Portuguese_and_the_consequences_for_syntactic_theory_Revista_da_ABRALIN_13_2_55-91_/7586675">data &amp; code</a></li>
+</ul></li>
 <li><p><span class="pub-author"><span class="pub-me">Almeida, D.</span>, &amp; Poeppel, D</span>. (2013). <span class="pub-title">Word–specific repetition effects revealed by <span class="sc">meg</span> and the implications for lexical access.</span> <span class="pub-journal">Brain and Language</span>, <span class="pub-vol">127</span>(<span class="pub-issue">3</span>), <span class="pub-pages">497 – 509</span>. [<a href="https://drive.google.com/open?id=0B36GYIWWvWmTTmhPeWNBOFkwNmc"><span class="sc">pdf</span></a> | <a href="https://doi.org/10.1016/j.bandl.2013.09.013"><span class="sc">doi</span></a>]</p></li>
 <li><p><span class="pub-author">Sprouse, J., Schütze, C., <span class="pub-me">Almeida, D</span></span>. (2013). <span class="pub-title">A comparison of informal and formal acceptability judgments using a random sample from Linguistic Inquiry 2001 - 2010.</span> <span class="pub-journal">Lingua</span>, <span class="pub-vol">134</span>, <span class="pub-pages">219 – 248</span>. [<a href="https://drive.google.com/open?id=0B36GYIWWvWmTd2sxUkZwWGpNRkk"><span class="sc">pdf</span></a> | <a href="http://ling.auf.net/lingbuzz/001352">Preprint</a> | <a href="https://doi.org/10.1016/j.lingua.2013.07.002"><span class="sc">doi</span></a>]</p></li>
 <li><p><span class="pub-author">Sprouse, J., &amp; <span class="pub-me">Almeida, D</span></span>. (2013). <span class="pub-title">The empirical status of data collection methods in syntax: a reply to Gibson and Fedorenko.</span> <span class="pub-journal">Language and Cognitive Processes</span>, <span class="pub-vol">28</span>(<span class="pub-issue">3</span>), <span class="pub-pages">222 – 228</span>. [<a href="https://drive.google.com/open?id=0B36GYIWWvWmTWDR5dTI4MnN5bkE"><span class="sc">pdf</span></a> | <a href="https://doi.org/10.1080/01690965.2012.703782"><span class="sc">doi</span></a>]</p></li>

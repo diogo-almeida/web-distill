@@ -9,7 +9,7 @@ title: "Research & Output"
 * [Sprouse, J. and [Almeida, D.]{.pub-me}]{.pub-author} (in press). Electrophysiological methods. The Oxford Handbook of Experimental Syntax. Edited by Jon Sprouse. Oxford University Press.
 
 * [Tucker, M., Idrissi, A., & [Almeida, D]{.pub-me}]{.pub-author}. (2021). [Attraction effects for verbal gender and number are similar but not identical: Self-paced reading evidence from Modern Standard Arabic.</span> <span class="pub-journal">Frontiers in Psychology]{.pub-title}, [11]{.pub-vol}, [3774]{.pub-pages}.
-    * <i class="ai ai-open-access"></i> <i class="fa fa-file-pdf"></i> [paper](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.586464/pdf)
+    * <i class="fa fa-file-pdf"></i> [OA paper](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.586464/pdf) <i class="ai ai-open-access"></i>
     * <i class="ai ai-figshare"></i> [data & code](https://figshare.com/projects/Attraction_Effects_for_Verbal_Gender_and_Number_Are_Similar_but_Not_Identical_Self-Paced_Reading_Evidence_from_Modern_Standard_Arabic/18823)
     * <i class="fa fa-github"></i> [research compendium](https://github.com/diogo-almeida/TuckerIdrissiAlmeida2021)
 
@@ -40,7 +40,10 @@ title: "Research & Output"
 
 * [Politzer-Ahles, S., Schluter, K., Wu, K., & [Almeida, D]{.pub-me}]{.pub-author}. (2015). [Asymmetries in the perception of Mandarin tones: Evidence from mismatch negativity.]{.pub-title} In The Scottish Consortium for ICPhS 2015 (Ed.), [Proceedings of the 18th International Congress of Phonetic Sciences]{.pub-journal}. Glasgow, UK: University of Glasgow. [[[pdf]{.sc}](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS0380.pdf)]
 
-* [[Almeida, D]{.pub-me}]{.pub-author}. (2014). [Subliminal WH-islands in Brazilian Portuguese and the consequences for syntactic theory.]{.pub-title} [Revista da ABRALIN]{.pub-journal}, [13]{.pub-vol}([2]{.pub-issue}), [55 – 93]{.pub-pages}. [[[pdf]{.sc}](http://revista.abralin.org/index.php/abralin/article/view/1187/1110) | [Preprint](http://ling.auf.net/lingbuzz/002240/) | [figshare (data + code)](https://figshare.com/articles/Data_Analysis_scripts_and_materials_for_Almeida_D_2014_Subliminal_wh-islands_in_Brazilian_Portuguese_and_the_consequences_for_syntactic_theory_Revista_da_ABRALIN_13_2_55-91_/7586675)]
+* [[Almeida, D]{.pub-me}]{.pub-author}. (2014). [Subliminal WH-islands in Brazilian Portuguese and the consequences for syntactic theory.]{.pub-title} [Revista da ABRALIN]{.pub-journal}, [13]{.pub-vol}([2]{.pub-issue}), [55 – 93]{.pub-pages}.
+    * <i class="fa fa-file-pdf"></i> [OA paper](http://revista.abralin.org/index.php/abralin/article/view/1187/1110) <i class="ai ai-open-access"></i>
+    * <i class="fa fa-file-pdf"></i> [Preprint](http://ling.auf.net/lingbuzz/002240/)
+    * <i class="ai ai-figshare"></i> [data & code](https://figshare.com/articles/Data_Analysis_scripts_and_materials_for_Almeida_D_2014_Subliminal_wh-islands_in_Brazilian_Portuguese_and_the_consequences_for_syntactic_theory_Revista_da_ABRALIN_13_2_55-91_/7586675)
 
 * [[Almeida, D.]{.pub-me}, & Poeppel, D]{.pub-author}. (2013). [Word–specific repetition effects revealed by [meg]{.sc} and the implications for lexical access.]{.pub-title} [Brain and Language]{.pub-journal}, [127]{.pub-vol}([3]{.pub-issue}), [497 – 509]{.pub-pages}. [[[pdf]{.sc}](https://drive.google.com/open?id=0B36GYIWWvWmTTmhPeWNBOFkwNmc) | [[doi]{.sc}](https://doi.org/10.1016/j.bandl.2013.09.013)]
 

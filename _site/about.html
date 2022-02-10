@@ -2362,17 +2362,23 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
   .biblio li ul {
+    list-style: none;
+    padding-left: 1em;  
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    row-gap: 0em;
+    column-gap: 1em;
   }
 
-  .biblio li ul li::marker{
-    content: "";
+  /* .biblio li ul li::marker{ */
+  /*   content: ""; */
     /* content: "\f1c1"; */
     /* font-family: "Font Awesome 5 Free"; */
-  }
+  /* } */
 
 
   .pub-authors {
