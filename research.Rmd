@@ -6,7 +6,7 @@ title: "Research & Output"
 
 :::::: biblio ::::::
 
-* [Sprouse, J. and [Almeida, D.]{.pub-me}]{.pub-author}. (in press). Electrophysiological methods. The Oxford Handbook of Experimental Syntax. Edited by Jon Sprouse. Oxford University Press.
+* [Sprouse, J. and [Almeida, D.]{.pub-me}]{.pub-author} (in press). Electrophysiological methods. The Oxford Handbook of Experimental Syntax. Edited by Jon Sprouse. Oxford University Press.
 
 * [Tucker, M., Idrissi, A., & [Almeida, D]{.pub-me}]{.pub-author}. (2021). [Attraction effects for verbal gender and number are similar but not identical: Self-paced reading evidence from Modern Standard Arabic.</span> <span class="pub-journal">Frontiers in Psychology]{.pub-title}, [11]{.pub-vol}, [3774]{.pub-pages}.
     * <i class="ai ai-open-access"></i> <i class="fa fa-file-pdf"></i> [paper](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.586464/pdf)
