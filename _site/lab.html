@@ -2358,6 +2358,20 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     text-indent: -1em;
   }
 
+  .biblio li ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  .biblio li ul li::marker{
+    content: "";
+    /* content: "\f1c1"; */
+    /* font-family: "Font Awesome 5 Free"; */
+  }
+
+
   .pub-authors {
     font-style: normal;
   }
@@ -2550,6 +2564,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
   <script src="site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
   <!--/radix_placeholder_site_in_header-->
 
 
@@ -2569,11 +2585,38 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
 <a href="index.html" class="title">Diogo Almeida</a>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+more
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="https://orcid.org/0000-0003-4674-8092">
+<i class="fa ai ai-orcid" aria-hidden="true"></i>
+</a>
+<a href="https://scholar.google.com/citations?user=RnwdD_8AAAAJ&amp;hl=en">
+<i class="fa ai ai-google-scholar" aria-hidden="true"></i>
+</a>
+<a href="https://figshare.com/authors/Diogo_Almeida/3692905">
+<i class="fa ai ai-figshare" aria-hidden="true"></i>
+</a>
+<a href="https://osf.io/vcvqx/">
+<i class="fa ai ai-osf" aria-hidden="true"></i>
+</a>
+<a href="https://www.researchgate.net/profile/Diogo_Almeida7">
+<i class="fa ai ai-researchgate" aria-hidden="true"></i>
+</a>
+</div>
+</div>
 </div>
 <div class="nav-right">
 <a href="index.html">Home</a>
 <a href="research.html">Research</a>
 <a href="lab.html">Lab</a>
+<a href="https://github.com/diogo-almeida">
+<i class="fa fa-github" aria-hidden="true"></i>
+</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>

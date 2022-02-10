@@ -2,18 +2,18 @@
 title: "Diogo Almeida"
 image: "diogo.jpg"
 links:
-  - label: Google Scholar
-    url: "https://scholar.google.com/citations?user=RnwdD_8AAAAJ&hl=en"
-  - label: ResearchGate
-    url: "https://www.researchgate.net/profile/Diogo_Almeida7"
-  - label: GitHub
-    url: "https://github.com/diogo-almeida"
   - label: ORCID
     url: "https://orcid.org/0000-0003-4674-8092"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=RnwdD_8AAAAJ&hl=en"
   - label: figshare
     url: "https://figshare.com/authors/Diogo_Almeida/3692905"
   - label: OSF
     url: "https://osf.io/vcvqx/"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Diogo_Almeida7"
+  - label: GitHub
+    url: "https://github.com/diogo-almeida"
   - label: Email
     url: "mailto:diogo@nyu.edu"
 output:

@@ -2358,6 +2358,20 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     text-indent: -1em;
   }
 
+  .biblio li ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  .biblio li ul li::marker{
+    content: "";
+    /* content: "\f1c1"; */
+    /* font-family: "Font Awesome 5 Free"; */
+  }
+
+
   .pub-authors {
     font-style: normal;
   }
@@ -2550,6 +2564,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
   <script src="site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
   <!--/radix_placeholder_site_in_header-->
 
 
@@ -2569,11 +2585,38 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
 <a href="index.html" class="title">Diogo Almeida</a>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+more
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="https://orcid.org/0000-0003-4674-8092">
+<i class="fa ai ai-orcid" aria-hidden="true"></i>
+</a>
+<a href="https://scholar.google.com/citations?user=RnwdD_8AAAAJ&amp;hl=en">
+<i class="fa ai ai-google-scholar" aria-hidden="true"></i>
+</a>
+<a href="https://figshare.com/authors/Diogo_Almeida/3692905">
+<i class="fa ai ai-figshare" aria-hidden="true"></i>
+</a>
+<a href="https://osf.io/vcvqx/">
+<i class="fa ai ai-osf" aria-hidden="true"></i>
+</a>
+<a href="https://www.researchgate.net/profile/Diogo_Almeida7">
+<i class="fa ai ai-researchgate" aria-hidden="true"></i>
+</a>
+</div>
+</div>
 </div>
 <div class="nav-right">
 <a href="index.html">Home</a>
 <a href="research.html">Research</a>
 <a href="lab.html">Lab</a>
+<a href="https://github.com/diogo-almeida">
+<i class="fa fa-github" aria-hidden="true"></i>
+</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>
@@ -2594,7 +2637,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <h2 id="papers">Papers</h2>
 <div class="biblio">
 <ul>
-<li><p><span class="pub-author">Tucker, M., Idrissi, A., &amp; <span class="pub-me">Almeida, D</span></span>. (2021). <span class="pub-title">Attraction effects for verbal gender and number are similar but not identical: Self-paced reading evidence from Modern Standard Arabic.</span> <span class="pub-journal">Frontiers in Psychology</span>, <span class="pub-vol">11</span>, <span class="pub-pages">3774</span>. [<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.586464/pdf"><span class="sc">pdf</span></a> | <a href="https://figshare.com/projects/Attraction_Effects_for_Verbal_Gender_and_Number_Are_Similar_but_Not_Identical_Self-Paced_Reading_Evidence_from_Modern_Standard_Arabic/18823">figshare (data &amp; code)</a> | <a href="https://github.com/diogo-almeida/TuckerIdrissiAlmeida2021">Research Compendium (data + code + computational environment)</a>]</p></li>
+<li><p><span class="pub-author">Sprouse, J. and <span class="pub-me">Almeida, D.</span></span>. (in press). Electrophysiological methods. The Oxford Handbook of Experimental Syntax. Edited by Jon Sprouse. Oxford University Press.</p></li>
+<li><p><span class="pub-author">Tucker, M., Idrissi, A., &amp; <span class="pub-me">Almeida, D</span></span>. (2021). <span class="pub-title">Attraction effects for verbal gender and number are similar but not identical: Self-paced reading evidence from Modern Standard Arabic.</span> <span class="pub-journal">Frontiers in Psychology</span>, <span class="pub-vol">11</span>, <span class="pub-pages">3774</span>.</p>
+<ul>
+<li><i class="ai ai-open-access"></i> <i class="fa fa-file-pdf"></i> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.586464/pdf">paper</a></li>
+<li><i class="ai ai-figshare"></i> <a href="https://figshare.com/projects/Attraction_Effects_for_Verbal_Gender_and_Number_Are_Similar_but_Not_Identical_Self-Paced_Reading_Evidence_from_Modern_Standard_Arabic/18823">data &amp; code</a></li>
+<li><i class="fa fa-github"></i> <a href="https://github.com/diogo-almeida/TuckerIdrissiAlmeida2021">research compendium</a></li>
+</ul></li>
 <li><p><span class="pub-author">Tucker, M., Idrissi, A., Sprouse, J., &amp; <span class="pub-me">Almeida, D</span></span>. (2019). <span class="pub-title">Resumption ameliorates different islands differentially: Acceptability data from Modern Standard Arabic.</span> In: Amel Khalfaoui &amp; Matthew Tucker. <span class="pub-journal">Proceedings of Perspectives on Arabic Linguistics 30</span> (<span class="pub-pages">159 – 194</span>). John Benjamins. [<a href="https://matthew-tucker.github.io/files/papers/resumption-islansds-arabic-acceptability.pdf">Preprint</a> | <a href="https://doi.org/10.1075/sal.7.09tuc"><span class="sc">doi</span></a>]</p></li>
 <li><p><span class="pub-authors">Sprouse, Jon, &amp; <span class="pub-me">Almeida, D</span></span>. (2017). <span class="pub-title">Setting the empirical record straight: Acceptability judgments appear to be reliable, robust, and replicable.</span> <span class="pub-journal">Behavioral and Brain Sciences</span>, <span class="pub-vol">40</span>, <span class="pub-pages">43 – 44</span>. [<a href="https://www.researchgate.net/profile/Diogo_Almeida7/publication/316408211_Setting_the_empirical_record_straight_Acceptability_judgments_appear_to_be_reliable_robust_and_replicable/links/5a07ec060f7e9b68229b4ba5/Setting-the-empirical-record-straight-Acceptability-judgments-appear-to-be-reliable-robust-and-replicable.pdf?_sg%5B0%5D=DJZmqG_tQo9_3B8xelozgtlA3PGNVnENd1w2MKW_rXiW7w12CqvZKI1f7pGRZ7mwzcL372LMStEMUinHOI5skQ.TiEvnpIoRhOkyKEiv5JOxn9PBamhfkYwrDL8A9ifs_naeRdfT1zYiwVN4ljKDRensVwZAHuFia93puTcnnkUtw&amp;_sg%5B1%5D=8DAEeSUUKEspPHDfyDbj7vXrJydXpX-4NzKhrPGsTaTcmh8nKmpe3M9h1QLVLUY1hpu6G095fWF6RMRsY0rPXw_LT-hEOXGpE1TjHlur_XLA.TiEvnpIoRhOkyKEiv5JOxn9PBamhfkYwrDL8A9ifs_naeRdfT1zYiwVN4ljKDRensVwZAHuFia93puTcnnkUtw">Preprint</a> | <a href="https://doi.org/10.1017/S0140525X17000590"><span class="sc">doi</span></a>]</p></li>
 <li><p><span class="pub-author">Schluter, K., Politzer-Ahles, S., Al Kaabi, M., &amp; <span class="pub-me">Almeida, D</span></span>. (2017). <span class="pub-title">Laryngeal features are phonetically abstract: Mismatch Negativity evidence from Arabic, English, and Russian.</span> <span class="pub-journal">Frontiers in Psychology</span>, <span class="pub-vol">8</span>, <span class="pub-pages">746</span>. [<a href="https://www.frontiersin.org/article/10.3389/fpsyg.2017.00746/pdf"><span class="sc">pdf</span></a> | <a href="https://doi.org/10.3389/fpsyg.2017.00746"><span class="sc">doi</span></a>]</p></li>

@@ -244,6 +244,20 @@ d-appendix p {
   text-indent: -1em;
 }
 
+.biblio li ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.biblio li ul li::marker{
+  content: "";
+  /* content: "\f1c1"; */
+  /* font-family: "Font Awesome 5 Free"; */
+}
+
+
 .pub-authors {
   font-style: normal;
 }

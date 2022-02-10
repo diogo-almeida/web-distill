@@ -6,6 +6,19 @@ description: |
 output_dir: "_site"
 creative_commons: CC BY-SA
 navbar:
+  left:
+    - text: "more"
+      menu: 
+        - icon: ai ai-orcid
+          href: "https://orcid.org/0000-0003-4674-8092"
+        - icon: ai ai-google-scholar
+          href: "https://scholar.google.com/citations?user=RnwdD_8AAAAJ&hl=en"
+        - icon: ai ai-figshare
+          href: "https://figshare.com/authors/Diogo_Almeida/3692905"
+        - icon: ai ai-osf
+          href: "https://osf.io/vcvqx/"
+        - icon: ai ai-researchgate
+          href: "https://www.researchgate.net/profile/Diogo_Almeida7"
   right:
     - text: "Home"
       href: index.html
@@ -13,4 +26,11 @@ navbar:
       href: research.html
     - text: "Lab"
       href: lab.html
-output: distill::distill_article
+    - icon: fa fa-github
+      href: https://github.com/diogo-almeida
+output:
+  distill::distill_article:
+    includes:
+      in_header:
+      - academicons.html
+      
