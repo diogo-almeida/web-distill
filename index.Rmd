@@ -26,7 +26,11 @@ site: distill::distill_website
 
 I’m an associate professor in [Psychology](https://nyuad.nyu.edu/en/academics/divisions/science/academic-programs/psychology.html) at [New York University Abu Dhabi](https://nyuad.nyu.edu) ([nyuad]{.sc}), with affiliations in [Biology](https://nyuad.nyu.edu/en/academics/divisions/science/academic-programs/biology.html) ([nyuad]{.sc}), [Psychology](https://as.nyu.edu/content/nyu-as/as/departments/psychology.html) and [Linguistics](https://as.nyu.edu/content/nyu-as/as/departments/linguistics/homepage.html) ([nyu]{.sc}).
 
-My work focuses on different aspects of language processing, such as how we perceive speech, how we retrieve words when hearing speech or reading, and how we parse and understand sentences. I am particularly interested in how the language system communicates with our perceptual and memory systems, and I use neuroimaging methods extensively in my research. I am also very fond of pursuing theoretically motivated cross-linguistic work, having worked or currently pursuing work on American Sign Language, Bosnian-Croatian-Montenegrin-Serbian, Modern Standard Arabic, Brazilian Portuguese, Hindi, Hungarian, Korean, Mandarin, Nepali and Russian.
+My work focuses on different aspects of language processing, such as how we perceive speech, how we retrieve words when hearing speech or reading, and how we parse and understand sentences.
+
+I am particularly interested in how the language system communicates with our perceptual and memory systems, and I use neuroimaging methods extensively in my research.
+
+I am also very fond of pursuing theoretically motivated cross-linguistic work, having worked or currently pursuing work on American Sign Language, Bosnian-Croatian-Montenegrin-Serbian, Modern Standard Arabic, Brazilian Portuguese, Hindi, Hungarian, Korean, Mandarin, Nepali and Russian.
 
 ## Background
 
