@@ -28,7 +28,7 @@ title: "Research & Output"
 * [Sprouse, J., & [Almeida, D]{.pub-me}]{.pub-author}. (2017). [Design sensitivity and statistical power in acceptability judgment experiments.]{.pub-title} [Glossa]{.pub-journal}, [2]{.pub-vol}([1]{.pub-issue}), [14]{.pub-pages}. https://doi.org/10.5334/gjgl.236
     * <i class="fa fa-file-pdf"></i> [OA paper](https://www.glossa-journal.org/article/4876/galley/12326/download/) <i class="ai ai-open-access"></i>
     * <i class="fa fa-file-excel"></i> [materials](https://www.jonsprouse.com/data/Glossa2017/SA2017.materials.xlsx)
-    * <i class="fa fa-chart-column"></i> [materials](https://www.jonsprouse.com/data/Glossa2017/SA2017.data.zip)
+    * <i class="fa fa-chart-column"></i> [data](https://www.jonsprouse.com/data/Glossa2017/SA2017.data.zip)
 
 * [[Almeida, D.]{.pub-me}, & Tucker, M]{.pub-author}. (2017). [The complex structure of errors and the independent visibility of phi-features: Evidence from agreement attraction in Arabic.]{.pub-title} In: Andrew Lamont & Katerina Tetzloff (Eds.) [Proceedings of the 47th Meeting of the North East Linguistics Society, Vol. 1]{.pub-journal} ([45 – 54]{.pub-pages}). Amherst, MA: GLSA.
     * <i class="fa fa-file-pdf"></i> [preprint](https://www.researchgate.net/profile/Diogo_Almeida7/publication/317274975_The_complex_structure_of_agreement_errors_Evidence_from_distributional_analyses_of_Agreement_Attraction_in_Arabic/links/592f730e0f7e9beee7618cce/The-complex-structure-of-agreement-errors-Evidence-from-distributional-analyses-of-Agreement-Attraction-in-Arabic.pdf?_iepl%5BhomeFeedViewId%5D=J8BMstCio7AnG6eA8m1EOFTjqJdTl507H8oJ&_iepl%5Bcontexts%5D%5B0%5D=pcfhf&_iepl%5BinteractionType%5D=publicationDownload&origin=publication_detail&ev=pub_int_prw_xdl&msrp=3pP4vniEN-e554UGWH1lOn9rptHJhQk2lRj3-x5hCtt8_iVT1qgZwH5TQR5Pn7szbBLaAXB9e9pYVyvI-j_vL-V_qYfyqQycLU4hA_FvrZSJ0wttpR1GIt3F.BF2bewA84qhsW2mjmzUzR0_lB3gC8052idJY0GBQ7WYRC2XLA_BikuEn5nHBzQyEufrxubiaiJJcktH9tEhQNkhPgUCh5b5DjvbD0g.UixZwm1os3WJw0Yj-_yQjMH-N2CliqsooLMpxlO7lDkiO93jEJ5FmIzB3O9hrbU0pkqGLXhGwGLxIkEFUpghUGUsTiASl8X89dTwAg.rILPoqlB3pnelRIjLwaZp7pm1GhGn1QNt1SLNmLptuGBextMhRkfcfk5tz8uK24VE5l2B0dKGfrs93afdw6TmBzfSXBmQ6W5ksyYIA)
@@ -63,6 +63,8 @@ title: "Research & Output"
 * [Sprouse, J., Schütze, C., [Almeida, D]{.pub-me}]{.pub-author}. (2013). [A comparison of informal and formal acceptability judgments using a random sample from Linguistic Inquiry 2001 - 2010.]{.pub-title} [Lingua]{.pub-journal}, [134]{.pub-vol}, [219 – 248]{.pub-pages}. https://doi.org/10.1016/j.lingua.2013.07.002
     * <i class="fa fa-file-pdf"></i> [paper](https://drive.google.com/open?id=0B36GYIWWvWmTd2sxUkZwWGpNRkk)
     * <i class="fa fa-file-pdf"></i> [preprint](http://ling.auf.net/lingbuzz/001352)
+    * <i class="fa fa-file-excel"></i> [materials](https://www.jonsprouse.com/data/Lingua2013/SSA.Materials.xlsx)
+    * <i class="fa fa-chart-column"></i> [data](https://www.jonsprouse.com/data/Lingua2013/SSA.data.zip)
 
 * [Sprouse, J., & [Almeida, D]{.pub-me}]{.pub-author}. (2013). [The empirical status of data collection methods in syntax: a reply to Gibson and Fedorenko.]{.pub-title} [Language and Cognitive Processes]{.pub-journal}, [28]{.pub-vol}([3]{.pub-issue}), [222 – 228]{.pub-pages}. https://doi.org/10.1080/01690965.2012.703782
     * <i class="fa fa-file-pdf"></i> [paper](https://drive.google.com/open?id=0B36GYIWWvWmTWDR5dTI4MnN5bkE)
@@ -72,6 +74,8 @@ title: "Research & Output"
 
 * [Sprouse, J., & [Almeida, D]{.pub-me}]{.pub-author}. (2012). [Assessing the reliability of textbook data in syntax: Adger’s Core Syntax.]{.pub-title} [Journal of Linguistics]{.pub-journal}, [48]{.pub-vol}([3]{.pub-issue}), [609 – 652]{.pub-pages}. https://doi.org/10.1017/S0022226712000011
     * <i class="fa fa-file-pdf"></i> [paper](https://drive.google.com/open?id=0B36GYIWWvWmTUHZXdjBpU1EtOW8)
+    * <i class="fa fa-file-excel"></i> [materials](https://www.jonsprouse.com/data/JoL2012/SA2012.materials.zip)
+    * <i class="fa fa-chart-column"></i> [data](https://www.jonsprouse.com/data/JoL2012/SA2012.materials.zip)
 
 * [Lau, E., [Almeida, D.]{.pub-me}, Hines, P. & Poeppel, D]{.pub-author}. (2009). [A lexical basis for N400 context effects: Evidence from [meg]{.sc}]{.pub-title}. [Brain and Language]{.pub-journal}, [111]{.pub-vol}([3]{.pub-issue}), [161 – 172]{.pub-pages}. https://doi.org/10.1016/j.bandl.2009.08.007
     * <i class="fa fa-file-pdf"></i> [paper](https://drive.google.com/open?id=0B36GYIWWvWmTSHFUM3FNQ3lUNkU)
