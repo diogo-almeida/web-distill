@@ -9,6 +9,8 @@ navbar:
   left:
     - icon: fas fa-bars
       menu: 
+        - icon: ai ai-cv fa-lg
+          href: "https://www.diogoalmeida.net/papers/diogo_almeida_web_cv_Feb2022.pdf"
         - icon: ai ai-orcid fa-lg
           href: "https://orcid.org/0000-0003-4674-8092"
         - icon: ai ai-google-scholar fa-lg
