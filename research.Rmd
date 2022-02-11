@@ -45,7 +45,7 @@ title: "Research & Output"
 
 * [Tucker, M., Idrissi, A., & [Almeida, D]{.pub-me}]{.pub-author}. (2015). [Representing number in the real–time processing of agreement: Self–paced reading evidence from Arabic.]{.pub-title} [Frontiers in Psychology – Language Sciences]{.pub-journal}, [6]{.pub-vol}:[347]{.pub-pages}. https://doi.org/10.3389/fpsyg.2015.00347
     * <i class="fa fa-file-pdf"></i> [OA paper](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.00347/pdf) <i class="ai ai-open-access"></i>
-    * <i class="ai ai-figshare"></i> [data & code](https://figshare.com/articles/dataset/_Representing_number_in_the_real-time_processing_of_agreement_Self-paced_reading_evidence_from_Arabic_Compressed_data_in_RData_format_for_direct_download_/4584331)]
+    * <i class="ai ai-figshare"></i> [data & code](https://figshare.com/articles/dataset/_Representing_number_in_the_real-time_processing_of_agreement_Self-paced_reading_evidence_from_Arabic_Compressed_data_in_RData_format_for_direct_download_/4584331)
 
 * [Politzer-Ahles, S., Schluter, K., Wu, K., & [Almeida, D]{.pub-me}]{.pub-author}. (2015). [Asymmetries in the perception of Mandarin tones: Evidence from mismatch negativity.]{.pub-title} In The Scottish Consortium for ICPhS 2015 (Ed.), [Proceedings of the 18th International Congress of Phonetic Sciences]{.pub-journal}. Glasgow, UK: University of Glasgow.
     * <i class="fa fa-file-pdf"></i> [OA paper](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS0380.pdf) <i class="ai ai-open-access"></i>
