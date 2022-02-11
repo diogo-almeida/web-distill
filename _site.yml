@@ -7,17 +7,17 @@ output_dir: "_site"
 creative_commons: CC BY-SA
 navbar:
   left:
-    - text: "more"
+    - icon: fas fa-bars
       menu: 
-        - icon: ai ai-orcid
+        - icon: ai ai-orcid fa-lg
           href: "https://orcid.org/0000-0003-4674-8092"
-        - icon: ai ai-google-scholar
+        - icon: ai ai-google-scholar fa-lg
           href: "https://scholar.google.com/citations?user=RnwdD_8AAAAJ&hl=en"
-        - icon: ai ai-figshare
+        - icon: ai ai-figshare fa-lg
           href: "https://figshare.com/authors/Diogo_Almeida/3692905"
-        - icon: ai ai-osf
+        - icon: ai ai-osf fa-lg
           href: "https://osf.io/vcvqx/"
-        - icon: ai ai-researchgate
+        - icon: ai ai-researchgate fa-lg
           href: "https://www.researchgate.net/profile/Diogo_Almeida7"
   right:
     - text: "Home"
