@@ -2115,9 +2115,15 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /*-- Additional custom styles --*/
   /* Add any additional CSS rules below                      */
   </style>
-  <style type="text/css">@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+  <style type="text/css">/* @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap'); */
   @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro');
+
+  @font-face {
+    font-family: "Jost";
+    src: url('./fonts/Jost-VF_wght.woff2') format('woff2');
+  }
+
 
   html {
     /*-- Main font sizes --*/
@@ -2267,7 +2273,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   d-byline h3 {
     font-family: var(--heading-font), sans-serif;
-    font-weight: 550;
+    font-weight: 550; /* 100; Bill Corp*/
     letter-spacing: 0.12em;
   }
 
@@ -2293,6 +2299,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     font-weight: 350;
     text-transform: none;
     letter-spacing: -0.025em;
+    font-feature-settings: "ss01";
   }
 
   /* This is a hack, should be doable with css selectors */
