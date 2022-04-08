@@ -34,3 +34,8 @@ title: "Current & Past Lab Members"
 * [Adam Féjes](https://www.linkedin.com/in/adam-fejes-31889084/)
 * [Jessica Obidowski](https://portfolium.com/JessicaObidowski)
 * [HyunKyung Park](https://www.linkedin.com/in/hyun-kyung-park-0729/)
+
+## Some files
+
+* [words](https://www.diogoalmeida.net/labfiles/words.zip)
+* [pseudowords](https://www.diogoalmeida.net/labfiles/pseudowords.zip)
